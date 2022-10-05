@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-f22/jpa02-sophiacheng01
 
-On Heroku: https://jpa02-sophiacheng01.herokuapp.com
+On Heroku: https://jpa02-sophiacheng.herokuapp.com
 
 
 # About this repo
